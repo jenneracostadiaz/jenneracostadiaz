@@ -1,4 +1,5 @@
-![jenner](https://user-images.githubusercontent.com/98963115/179411572-294e91a2-1c31-43ea-a72b-57d8d3caa65d.png)
+![GitHubcover - 1](https://user-images.githubusercontent.com/98963115/198837016-fd573407-5e4a-4323-ab4b-2309ba3c7d5d.png)
+
 I am a senior student at UTP - Universidad Tecnológica del Perú. I am currently learning ReactJS, NodeJS. My goal is to create solutions with quality software.
 ## Web Front-end:
 ![sass](https://user-images.githubusercontent.com/98963115/179412874-fb247ff0-b80c-4b21-bf76-de2f390a8144.svg)
