@@ -8,5 +8,5 @@ I am a senior student at UTP - Universidad Tecnológica del Perú. I am currentl
 ![js](https://user-images.githubusercontent.com/98963115/179412881-61d915cd-a0b6-44ee-aeef-c5ea83754830.svg)
 ![react](https://user-images.githubusercontent.com/98963115/179412878-baee6d45-e376-4052-a1e3-bfb06efa4563.svg)
 
-## Web Front-end:
-PHP | Laravel | Python
+## Web Backend-end:
+PHP | Laravel
